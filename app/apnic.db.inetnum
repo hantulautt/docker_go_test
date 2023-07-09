@@ -1,0 +1,2097 @@
+#
+# Copyright (c) 1994-1998 APNIC Ltd.
+# Copyright (c) 1998-2010 APNIC Pty. Ltd.
+#
+# Restricted rights.
+#
+# Except for agreed Internet operational purposes, no part of this
+# publication may be reproduced, stored in a retrieval system, or
+# transmitted, in any form or by any means, electronic, mechanical,
+# recording, or otherwise, without prior permission of APNIC on
+# behalf of the copyright holders. Any use of this material to
+# target advertising or similar activities are explicitly forbidden
+# and will be prosecuted. APNIC requests to be notified of any such
+# activities or suspicions thereof.
+#
+
+inetnum:        202.6.91.0 - 202.6.91.255
+netname:        NLA-AU
+descr:          National Library of Australia
+country:        AU
+org:            ORG-NLOA1-AP
+admin-c:        NC68-AP
+tech-c:         NC68-AP
+abuse-c:        AN649-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-NLA
+mnt-irt:        IRT-NLA-NON-AU
+last-modified:  2023-02-17T08:17:38Z
+source:         APNIC
+
+inetnum:        202.14.146.0 - 202.14.146.255
+netname:        JOHNSTRANGIO-AU
+descr:          John Strangio
+country:        AU
+org:            ORG-YA18-AP
+admin-c:        JSA5-AP
+tech-c:         JSA5-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-JOHNSTRANGIO-AU
+mnt-irt:        IRT-JOHNSTRANGIO-AU
+last-modified:  2023-03-28T23:43:07Z
+source:         APNIC
+
+inetnum:        202.12.121.0 - 202.12.121.255
+netname:        CSIRO-ROCK-2
+descr:          CSIRO
+descr:          CSIRO, Tropical Cattle Research Centre
+descr:          PO Box 5545
+descr:          Rockhampton Mail Centre, Qld
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        HB251-AP
+tech-c:         HB251-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:06Z
+source:         APNIC
+
+inetnum:        202.14.89.0 - 202.14.89.255
+netname:        TPG-NET
+descr:          The Preston Group PTY. LTD
+descr:          488 Victoria St.
+descr:          Richmond 3121
+country:        AU
+admin-c:        SN112-AP
+tech-c:         SN112-AP
+mnt-by:         APNIC-HM
+status:         ASSIGNED PORTABLE
+last-modified:  2008-09-04T06:49:21Z
+source:         APNIC
+
+inetnum:        202.0.90.0 - 202.0.90.255
+netname:        BENDIGOKANGAN-AU
+descr:          Bendigo Kangan Institute
+descr:          PO Box 170
+descr:          Bendigo
+descr:          Vic 3552
+descr:          136 McCrae St BENDIGO 3550
+country:        AU
+org:            ORG-BKI1-AP
+admin-c:        PG69-AP
+tech-c:         PG69-AP
+abuse-c:        AB1318-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-BENDIGOKANGAN-NON-AU
+last-modified:  2020-11-25T06:37:47Z
+source:         APNIC
+
+inetnum:        202.8.39.0 - 202.8.39.255
+netname:        CSIRO-HO8
+descr:          CSIRO
+descr:          CSIRO Head Office
+descr:          407 Royal Parade
+descr:          Parkville, Vic
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        JG651-AP
+tech-c:         JG651-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-10-20T00:55:58Z
+source:         APNIC
+
+inetnum:        202.0.68.0 - 202.0.68.255
+netname:        PANBECC-2
+descr:          Bundoora Extended Care Centre
+descr:          1231 Plenty Road
+descr:          Bundoora 3083
+country:        AU
+admin-c:        DE154
+tech-c:         DE154
+mnt-by:         APNIC-HM
+remarks:        ******** 930323
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:23Z
+source:         APNIC
+
+inetnum:        202.12.112.0 - 202.12.112.255
+netname:        LNA-NET1
+descr:          Leeds & Northrup Australia
+descr:          42 McKechnie Drive
+descr:          Eight Mile Plains
+descr:          Brisbane 4113
+country:        AU
+admin-c:        GB13
+tech-c:         GB13
+mnt-by:         APNIC-HM
+remarks:        ******** 930507
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:23Z
+source:         APNIC
+
+inetnum:        202.14.145.0 - 202.14.145.255
+netname:        BPANAI-AU
+descr:          Brisbane Public Access Network Association Inc
+country:        AU
+org:            ORG-BPAN1-AP
+admin-c:        BPAN1-AP
+tech-c:         BPAN1-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-BPANAI-AU
+mnt-irt:        IRT-BPANAI-AU
+last-modified:  2022-12-28T09:16:20Z
+source:         APNIC
+
+inetnum:        202.12.125.0 - 202.12.125.255
+netname:        TIGERBAY
+descr:          Tigerbay Computing
+descr:          27 Dunrossil St
+descr:          Wembley Downs  WA  6019
+country:        AU
+admin-c:        RP8
+tech-c:         RP8
+mnt-by:         APNIC-HM
+remarks:        ******** 930512
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:23Z
+source:         APNIC
+
+inetnum:        202.14.186.0 - 202.14.186.255
+netname:        IPAUST
+descr:          IP Australia
+descr:          47 Bowes Street
+descr:          Phillip ACT 2606
+country:        AU
+org:            ORG-IA47-AP
+admin-c:        PQ63-AP
+tech-c:         PQ63-AP
+abuse-c:        AI712-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-IPAUST-NON-AU
+last-modified:  2020-11-10T22:24:54Z
+source:         APNIC
+
+inetnum:        202.6.74.0 - 202.6.74.255
+netname:        ABC1
+descr:          Australian Broadcasting Commission
+descr:          Technology Research and Development Laboratory
+descr:          GPO Box 9994
+descr:          Sydney NSW 2001
+country:        AU
+org:            ORG-ABC3-AP
+admin-c:        MK624-AP
+tech-c:         MK624-AP
+abuse-c:        AA1690-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-ABC
+mnt-irt:        IRT-ABC-NON-AU
+last-modified:  2021-08-03T03:34:42Z
+source:         APNIC
+
+inetnum:        202.6.4.0 - 202.6.4.255
+netname:        CSISDITANNEX
+descr:          Commonwealth Scientific and Industrial Research Organisation
+descr:          GPO Box 664
+descr:          Canberra ACT 2601
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        JG651-AP
+tech-c:         JG651-AP
+abuse-c:        AC1863-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:05Z
+source:         APNIC
+
+inetnum:        202.12.49.0 - 202.12.49.255
+netname:        AGVIC18
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:24Z
+source:         APNIC
+
+inetnum:        202.1.3.0 - 202.1.3.255
+netname:        RMSNET-AU
+descr:          ROADS AND MARITIME SERVICES
+descr:          Roads and Maritime Services
+descr:          99 Phillip Street, Parramatta, NSW
+country:        AU
+org:            ORG-RAMS1-AP
+admin-c:        RAMS1-AP
+admin-c:        MN99-AP
+tech-c:         MN99-AP
+abuse-c:        AR969-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-RMSNET-AU
+mnt-irt:        IRT-RMSNET-AU
+last-modified:  2020-07-15T13:10:59Z
+source:         APNIC
+
+inetnum:        202.14.1.0 - 202.14.1.255
+netname:        CSIRO-TOWN-2
+descr:          CSIRO
+descr:          CSIRO, Davies Laboratory
+descr:          Private Mail Bag PO
+descr:          Aitkenvale, Qld
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        HB251-AP
+tech-c:         HB251-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+remarks:        ******** 931228
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:09Z
+source:         APNIC
+
+inetnum:        202.6.81.0 - 202.6.81.255
+netname:        SYDAC
+descr:          SYDAC Pty. Limited.
+descr:          SYDAC Pty. Ltd.
+descr:          Innovation House West
+descr:          Technology Park. The Levels.
+descr:          ADELAIDE. SOUTH
+country:        AU
+admin-c:        WH125
+tech-c:         WH125
+mnt-by:         APNIC-HM
+remarks:        ******** 930726
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:25Z
+source:         APNIC
+
+inetnum:        202.14.2.0 - 202.14.2.255
+netname:        CSIRO-TOWN-3
+descr:          CSIRO
+descr:          CSIRO, Davies Laboratory
+descr:          Private Mail Bag PO
+descr:          Aitkenvale, Qld
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        HB251-AP
+tech-c:         HB251-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+remarks:        ******** 930427
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:06Z
+source:         APNIC
+
+inetnum:        202.12.43.0 - 202.12.43.255
+netname:        AGVIC12
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:25Z
+source:         APNIC
+
+inetnum:        202.12.41.0 - 202.12.41.255
+netname:        AGVIC10
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:25Z
+source:         APNIC
+
+inetnum:        202.0.156.0 - 202.0.159.255
+netname:        PACIFICCOMMUNITY-NC
+descr:          Pacific Community
+descr:          Noumea
+country:        NC
+org:            ORG-PC21-AP
+admin-c:        PCA11-AP
+tech-c:         PCA11-AP
+abuse-c:        AP1014-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-PACIFICCOMMUNITY-NC
+mnt-lower:      MAINT-PACIFICCOMMUNITY-NC
+mnt-irt:        IRT-PACIFICCOMMUNITY-NC
+last-modified:  2021-03-26T00:12:21Z
+source:         APNIC
+
+inetnum:        202.1.128.0 - 202.1.159.255
+netname:        STCORP-AP
+descr:          SGS-THOMSON Microelectronics
+descr:          28, Ang Mo Kio Ind Pk 2
+descr:          Singapore 2056
+country:        SG
+admin-c:        VD1-AP
+tech-c:         RA1-AP
+tech-c:         AS1-AP
+mnt-by:         APNIC-HM
+remarks:        ******** 940927
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:26Z
+source:         APNIC
+
+inetnum:        202.21.192.0 - 202.21.255.255
+netname:        DBRHO-AP
+descr:          Deutsche Bank Regional Head Office
+descr:          30 Pasir Panjang Road, Level 11
+descr:          Mapletree Business City
+descr:          Singapore 117440
+country:        SG
+org:            ORG-DBRH1-AP
+admin-c:        TS475-AP
+tech-c:         TS475-AP
+abuse-c:        AD1070-AP
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        To report network abuse, please contact the IRT
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        For assistance, please contact the APNIC Helpdesk
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AP-RHODB
+mnt-routes:     MAINT-AP-RHODB
+mnt-irt:        IRT-DBRHO-NON-SG
+last-modified:  2021-01-14T22:44:02Z
+source:         APNIC
+
+inetnum:        202.12.19.0 - 202.12.19.255
+netname:        LEADNET-3
+descr:          LEAD Institute
+descr:          The Rockefeller Foundation
+descr:          1133 Avenue of the Americas
+descr:          New York, NY 10036
+country:        US
+admin-c:        HL5
+tech-c:         HL5
+mnt-by:         APNIC-HM
+remarks:        ******** 930618
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:27Z
+source:         APNIC
+
+inetnum:        202.41.133.0 - 202.41.133.255
+netname:        PRL-IN
+descr:          Physical Research Laborotary
+descr:          Computer Center
+descr:          Physical Research Laboratory
+descr:          Ahmedabad 380 009
+country:        IN
+admin-c:        VS1-IN
+tech-c:         GD1-IN
+mnt-by:         APNIC-HM
+remarks:        ******** 941207
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:27Z
+source:         APNIC
+
+inetnum:        202.41.10.0 - 202.41.10.255
+netname:        JNU-DEL-IN
+descr:          Jawaharlal Nehru University
+country:        IN
+org:            ORG-JNU2-AP
+admin-c:        JNUA1-AP
+tech-c:         JNUA1-AP
+abuse-c:        AJ408-AP
+status:         ASSIGNED PORTABLE
+remarks:        ---------------------------------------------------
+remarks:        This object can only be modified by APNIC hostmaster
+remarks:        If you wish to modify this object details please
+remarks:        send email to ******** with your organisation
+remarks:        account name in the subject line.
+remarks:        ----------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-JNU-DEL-IN
+mnt-irt:        IRT-JNU-DEL-IN
+last-modified:  2020-06-22T16:26:50Z
+source:         APNIC
+
+inetnum:        202.41.4.0 - 202.41.7.255
+netname:        TCSNET3
+descr:          Tata Consultancy Services
+descr:          Vidyasagar Building, 5th Floor,
+descr:          Raheja Township, Near Sai Baba Mindir,
+descr:          Malad (East), Mumbai 400 097
+country:        IN
+org:            ORG-TCSL3-AP
+admin-c:        DJ97-AP
+tech-c:         DJ97-AP
+abuse-c:        AT1469-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-IN-TATACONSULTANCYSERVICES
+mnt-routes:     MAINT-IN-TATACONSULTANCYSERVICES
+mnt-irt:        IRT-TATACONSULTANCY-NON-IN
+last-modified:  2021-01-12T02:15:49Z
+source:         APNIC
+
+inetnum:        202.46.129.0 - 202.46.129.255
+netname:        ITSEL-ID
+descr:          Institut Teknologi Sepuluh Nopember
+descr:          Kampus ITS Keputih Sukolilo
+descr:          Surabaya 60111, JATIM
+descr:          Indonesia
+country:        ID
+org:            ORG-ITSN1-AP
+admin-c:        IH134-AP
+tech-c:         IH134-AP
+abuse-c:        AI629-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-ID-ITS
+mnt-irt:        IRT-ITSN-NON-ID
+last-modified:  2020-08-19T13:05:38Z
+source:         APNIC
+
+inetnum:        202.44.142.0 - 202.44.143.255
+netname:        MINNET-TH
+descr:          Electricity Generating Authority of Thailand
+descr:          Mine Engineering Department
+descr:          Nonthaburi, 11000
+country:        TH
+admin-c:        SL1-TH
+tech-c:         SL1-TH
+mnt-by:         APNIC-HM
+remarks:        ******** 950609
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:28Z
+source:         APNIC
+
+inetnum:        202.75.0.0 - 202.75.3.255
+netname:        JADENET
+descr:          Jade Networks International Limited
+descr:          Blk 3, 6/F, Suite B, Pristine Villa, Tai Wai, Shatin
+country:        HK
+org:            ORG-JNIL1-AP
+admin-c:        TK171-AP
+tech-c:         TK171-AP
+abuse-c:        AJ437-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-JADE-NON-HK
+last-modified:  2021-11-19T02:04:56Z
+source:         APNIC
+
+inetnum:        202.63.254.0 - 202.63.255.255
+netname:        FFA-SB
+descr:          The Forum Fisheries Agency
+descr:          P.O. Box 629
+descr:          Honiara
+country:        SB
+admin-c:        AB91
+tech-c:         AB91
+mnt-by:         APNIC-HM
+remarks:        ******** 950618
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:29Z
+source:         APNIC
+
+inetnum:        202.20.123.0 - 202.20.124.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+last-modified:  2015-12-01T22:28:53Z
+source:         APNIC
+
+inetnum:        202.1.240.0 - 202.1.255.255
+netname:        OTML-PG
+descr:          Ok Tedi Mining Limited (OTML)
+descr:          Copper Concentrate Mine
+descr:          Tabubil WP PNG
+country:        PG
+org:            ORG-OTML2-AP
+admin-c:        OTML1-AP
+tech-c:         OTML1-AP
+abuse-c:        AO206-AP
+status:         ALLOCATED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        This object can only be updated by APNIC hostmasters.
+remarks:        To update this object, please contact APNIC
+remarks:        hostmasters and include your organisation's account
+remarks:        name in the subject line.
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-OTML-NON-PG
+mnt-routes:     MAINT-OTML-NON-PG
+mnt-irt:        IRT-OTML-NON-PG
+last-modified:  2020-10-02T02:48:07Z
+source:         APNIC
+
+inetnum:        202.69.0.0 - 202.69.3.255
+netname:        PLANET-HK
+descr:          Planet Telecommunication Services Ltd.
+descr:          Shop 106, Hang Seng Building
+descr:          77 Des Voeux Road, Central
+country:        HK
+admin-c:        AT2-HK
+tech-c:         WW1-HK
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 950615
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:30Z
+source:         APNIC
+
+inetnum:        202.127.48.0 - 202.127.63.255
+netname:        CGAC-CN
+descr:          National Information Center of GACC (National E-Clearance Center of GACC)
+descr:          63 Jinbao Street,Dongcheng District,Bejing
+country:        CN
+admin-c:        YW7286-AP
+tech-c:         JS4534-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-irt:        IRT-CGAC-CN
+mnt-routes:     MAINT-CNNIC-AP
+last-modified:  2023-05-22T23:56:37Z
+source:         APNIC
+
+inetnum:        202.7.60.0 - 202.7.63.255
+netname:        NZDF-NZ
+descr:          New Zealand Defence Forces
+descr:          Headquarters
+descr:          Wellington
+country:        NZ
+org:            ORG-NZDF1-AP
+admin-c:        NAAP1-AP
+tech-c:         NNE1-AP
+abuse-c:        AN684-AP
+status:         ALLOCATED PORTABLE
+remarks:        Providing network capability for New Zealand Defence Forces
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+last-modified:  2021-05-20T01:05:50Z
+source:         APNIC
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-NZ-NZDF
+mnt-routes:     MAINT-NZ-NZDF
+mnt-irt:        IRT-NZDF-NZ
+
+inetnum:        202.38.160.0 - 202.38.161.255
+netname:        SINOLINK-CN
+descr:          Beijing Fortune Information Technology Co.
+descr:          No.10 Beijing Worker's Stadium
+country:        CN
+admin-c:        WL4-CN
+tech-c:         MM1-CN
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 950801
+status:         ASSIGNED PORTABLE
+last-modified:  2011-11-09T00:07:40Z
+source:         APNIC
+
+inetnum:        202.79.252.0 - 202.79.255.255
+netname:        TIC-HK
+descr:          PIPEX ASIA/PACIFIC LIMITED
+country:        HK
+admin-c:        BC2-AP
+tech-c:         MM2-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 950821
+status:         ALLOCATED PORTABLE
+last-modified:  2011-11-09T00:07:41Z
+source:         APNIC
+
+inetnum:        203.129.0.0 - 203.129.3.255
+netname:        CLI-PK
+descr:          CroXx Linc International (Ltd)
+descr:          Mineral Research Network Center
+descr:          Karachi
+country:        PK
+admin-c:        NA1-PK
+tech-c:         NA1-PK
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 950818
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:31Z
+source:         APNIC
+
+inetnum:        202.42.208.0 - 202.42.209.255
+netname:        PACIFICINTERNET-BB
+descr:          Pacific Internet Internet
+country:        SG
+admin-c:        PIPL6-AP
+tech-c:         PIPL6-AP
+abuse-c:        AP930-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-SG-PACIFIC
+mnt-irt:        IRT-PACIFICINTERNET-SG
+last-modified:  2022-08-15T03:44:21Z
+source:         APNIC
+
+inetnum:        202.6.98.0 - 202.6.98.255
+netname:        DRES-TOKYO
+descr:          Dresdner Securities (Asia) Limited
+descr:          Shionogi Honcho Kyodo Bldg. 10th Fl.
+descr:          7-2, Nihonbashi, Honcho 3 chome,
+descr:          Chuo-ku, Tokyo 103
+country:        JP
+admin-c:        YD16
+tech-c:         YD16
+mnt-by:         APNIC-HM
+remarks:        ******** 930323
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:32Z
+source:         APNIC
+
+inetnum:        202.12.14.0 - 202.12.14.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:24Z
+source:         APNIC
+
+inetnum:        203.90.0.0 - 203.90.3.255
+netname:        PANNET-CN
+descr:          Mass Link Co.
+descr:          Beijing, China
+country:        CN
+admin-c:        MY1-CN
+tech-c:         TH3-CN
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 950626
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:32Z
+source:         APNIC
+
+inetnum:        203.127.201.0 - 203.127.201.255
+netname:        EBARA-SG
+descr:          EBARA ENGINEERING (S) PTE LTD
+descr:          1 TUAS LINK 2
+descr:          .
+descr:          Singapore 638550
+country:        SG
+admin-c:        SO195-AP
+tech-c:         SH9-AP
+abuse-c:        AS2068-AP
+status:         ASSIGNED NON-PORTABLE
+mnt-by:         MAINT-SG-SINGNET
+mnt-irt:        IRT-SINGNET-SG
+last-modified:  2021-01-20T13:21:34Z
+source:         APNIC
+
+inetnum:        202.112.0.0 - 202.121.255.255
+netname:        CERNET-CN
+descr:          China Education and Research Network
+descr:          China Education and Research Network Center
+descr:          Tsinghua University
+descr:          Beijing, 100084
+country:        CN
+admin-c:        CER-AP
+tech-c:         CER-AP
+abuse-c:        AC1685-AP
+status:         ALLOCATED PORTABLE
+remarks:        origin AS4538
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-CERNET-AP
+mnt-routes:     MAINT-CERNET-AP
+mnt-irt:        IRT-CERNET-AP
+last-modified:  2020-09-03T09:16:29Z
+source:         APNIC
+
+inetnum:        202.0.160.0 - 202.0.179.255
+netname:        COMNET-TELECOM
+descr:          ComNet Telecom International Limited
+descr:          Telecom Services Provider
+descr:          Hong Kong
+country:        HK
+org:            ORG-CTIL2-AP
+admin-c:        JC4240-AP
+tech-c:         JC4240-AP
+abuse-c:        AH1000-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+remarks:        ******** 950914
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-COMNETTELECOM
+mnt-routes:     MAINT-AU-COMNETTELECOM
+mnt-irt:        IRT-HK-COMNET
+last-modified:  2020-07-13T03:18:05Z
+source:         APNIC
+
+inetnum:        202.46.24.0 - 202.46.31.255
+netname:        IDNIC-WIMA-ID
+descr:          Universitas Katolik Widya Mandala
+descr:          Surabaya
+country:        ID
+admin-c:        HP1-ID
+tech-c:         HP1-ID
+tech-c:         PA1-ID
+mnt-by:         MNT-APJII-ID
+mnt-irt:        IRT-WIMA-ID
+remarks:        ******** 980308
+status:         ASSIGNED PORTABLE
+mnt-routes:     MAINT-ID-WIMA
+last-modified:  2014-07-25T03:20:18Z
+source:         APNIC
+
+inetnum:        202.89.252.0 - 202.89.255.255
+netname:        YAUYIPING-HK
+descr:          YAU YI PING
+country:        HK
+org:            ORG-YYP1-AP
+admin-c:        CY2837-AP
+tech-c:         CY2837-AP
+abuse-c:        AY579-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-YAUYIPING-HK
+mnt-irt:        IRT-YAUYIPING-HK
+last-modified:  2023-02-17T05:01:28Z
+source:         APNIC
+
+inetnum:        203.127.207.0 - 203.127.207.255
+netname:        PAGELINK-SG
+descr:          380 Yio Chu Kang Road
+descr:          04-00 YC Radio Receiving Station
+descr:          Singapore 805942
+country:        SG
+admin-c:        BWY2-AP
+tech-c:         BWY2-AP
+abuse-c:        AS2068-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        rev-srv: Merlion.singnet.com.sg
+mnt-by:         MAINT-SG-SINGNET
+mnt-irt:        IRT-SINGNET-SG
+last-modified:  2021-01-20T13:18:08Z
+source:         APNIC
+
+inetnum:        202.88.204.0 - 202.88.207.255
+netname:        AARONCHEUNG-HK
+descr:          Cheung Yuk Tong Aaron
+country:        HK
+org:            ORG-YTAC1-AP
+admin-c:        ACA22-AP
+tech-c:         ACA22-AP
+abuse-c:        AA2596-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AARONCHEUNG-HK
+mnt-irt:        IRT-AARONCHEUNG-HK
+last-modified:  2023-04-11T07:55:39Z
+source:         APNIC
+
+inetnum:        202.7.128.0 - 202.7.143.255
+netname:        NOMURA-HK
+descr:          Nomura Research Institute Hong Kong Limited
+descr:          30/F Two International Finance Centre
+descr:          Central
+descr:          Hong Kong
+country:        HK
+admin-c:        CC2-AP
+tech-c:         CC2-AP
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AP-NOMURA
+mnt-routes:     MAINT-AP-NOMURA
+remarks:        added APNIC-HM maintainer, it was no maintainer.
+status:         ALLOCATED PORTABLE
+last-modified:  2008-09-04T06:49:22Z
+source:         APNIC
+
+inetnum:        202.69.248.0 - 202.69.255.255
+netname:        SPEEDNET-HK
+descr:          Speednet Communications (Hong Kong) Limited
+descr:          Unit 1601, King's Commercial Building,
+descr:          2 Chatham Court, T.S.T.
+country:        HK
+admin-c:        KM334-AP
+tech-c:         KM334-AP
+remarks:        ns1.speednet.net
+mnt-by:         APNIC-HM
+status:         ALLOCATED PORTABLE
+last-modified:  2011-09-29T03:13:50Z
+source:         APNIC
+
+inetnum:        202.88.200.0 - 202.88.203.255
+netname:        AARONCHEUNG-HK
+descr:          Cheung Yuk Tong Aaron
+country:        HK
+org:            ORG-YTAC1-AP
+admin-c:        ACA22-AP
+tech-c:         ACA22-AP
+abuse-c:        AA2596-AP
+status:         ALLOCATED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AARONCHEUNG-HK
+mnt-irt:        IRT-AARONCHEUNG-HK
+last-modified:  2023-04-11T07:56:22Z
+source:         APNIC
+
+inetnum:        202.8.71.0 - 202.8.71.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:57Z
+source:         APNIC
+
+inetnum:        202.8.70.0 - 202.8.70.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:56Z
+source:         APNIC
+
+inetnum:        202.8.69.0 - 202.8.69.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:56Z
+source:         APNIC
+
+inetnum:        202.8.68.0 - 202.8.68.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:55Z
+source:         APNIC
+
+inetnum:        202.8.67.0 - 202.8.67.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:55Z
+source:         APNIC
+
+inetnum:        202.8.66.0 - 202.8.66.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:54Z
+source:         APNIC
+
+inetnum:        202.8.65.0 - 202.8.65.255
+netname:        AIOT-TH
+descr:          Asian Institute of Technology
+descr:          intERLab
+descr:          58 Moo 9
+descr:          Km. 42 Phaholyothin Highway
+descr:          Klong Luang, Pathumthani 12120
+country:        TH
+org:            ORG-AIOT2-AP
+admin-c:        ON18-AP
+tech-c:         ON18-AP
+abuse-c:        AA1647-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AIOT-TH
+mnt-routes:     MAINT-AIOT-TH
+mnt-irt:        IRT-AIOT-TH
+last-modified:  2023-03-06T23:39:54Z
+source:         APNIC
+
+inetnum:        202.131.0.0 - 202.131.3.255
+netname:        DCS-MN
+descr:          Data Communications Systems Company Limited
+descr:          UlaanBaatar
+country:        MN
+org:            ORG-DCL5-AP
+admin-c:        DE37-AP
+tech-c:         BB593-AP
+abuse-c:        AD766-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-DATACOM-AP
+mnt-routes:     MAINT-DATACOM-AP
+mnt-irt:        IRT-DATACOM-MN
+last-modified:  2020-10-20T00:55:59Z
+source:         APNIC
+
+inetnum:        202.5.0.0 - 202.5.3.255
+netname:        VALHALLA
+descr:          Valhalla Online Services
+descr:          Internet Service Provider
+descr:          Support Services
+country:        AU
+admin-c:        BC1-AP
+tech-c:         BC1-AP
+tech-c:         LY1-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 951117
+status:         ALLOCATED PORTABLE
+last-modified:  2011-11-09T00:07:49Z
+source:         APNIC
+
+inetnum:        202.41.32.0 - 202.41.63.255
+netname:        BHELCDT
+descr:          BHARAT HEAVY ELECTRICALS LIMITED
+country:        IN
+org:            ORG-NA1-AP
+admin-c:        HD814-AP
+tech-c:         HD814-AP
+mnt-by:         MAINT-IN-IRINN
+mnt-irt:        IRT-BHELCDT-IN
+mnt-routes:     MAINT-IN-BHELCDT
+mnt-lower:      MAINT-IN-BHELCDT
+status:         ALLOCATED PORTABLE
+last-modified:  2023-06-12T02:38:19Z
+source:         APNIC
+
+inetnum:        202.12.9.0 - 202.12.9.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:25Z
+source:         APNIC
+
+inetnum:        202.12.13.0 - 202.12.13.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:23Z
+source:         APNIC
+
+inetnum:        202.40.168.0 - 202.40.171.255
+netname:        CATHAY-PACIFIC-AIRWAYS-HK
+descr:          Cathay Pacific Airways Ltd.
+descr:          Information Management, 6/F, Central Tower,
+descr:          Cathay Pacific City,
+descr:          8 Scenic Road, Hong Kong International Airport,
+descr:          Lantau,
+descr:          Hong Kong
+country:        HK
+org:            ORG-CPAL1-AP
+admin-c:        CPAL1-AP
+tech-c:         CPAL1-AP
+abuse-c:        AC1847-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-CATHAYPACIFICAIRWAYSLIMITED-HK
+last-modified:  2020-11-25T06:34:29Z
+source:         APNIC
+
+inetnum:        202.12.15.0 - 202.12.15.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:24Z
+source:         APNIC
+
+inetnum:        202.12.11.0 - 202.12.11.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:22Z
+source:         APNIC
+
+inetnum:        203.120.61.0 - 203.120.61.255
+netname:        SEMCORP-SG
+descr:          Sembawang Corporation Ltd
+descr:          Orchard Road, Singapore
+country:        SG
+admin-c:        TI55-AP
+tech-c:         TI54-AP
+abuse-c:        AT940-AP
+status:         ASSIGNED NON-PORTABLE
+remarks:        For SPAM/ABUSE Issue: ********
+remarks:        For Network Related Issue: ********
+mnt-by:         MAINT-HK-TI
+mnt-irt:        IRT-TELSTRA-INTL-HK
+last-modified:  2020-05-14T11:18:14Z
+source:         APNIC
+
+inetnum:        202.46.130.0 - 202.46.131.255
+netname:        ASTRA-ID
+descr:          PT. Astra International, Tbk
+descr:          Corporate / Direct Member IDNIC
+descr:          Jl. Gaya Motor Raya No.8, Sunter II
+descr:          Jakarta 14330
+country:        ID
+admin-c:        WP337-AP
+tech-c:         WP337-AP
+remarks:        Send Spam& Abuse Reports to ********
+mnt-by:         MNT-APJII-ID
+mnt-lower:      MAINT-ID-ASTRA
+mnt-routes:     MAINT-ID-ASTRA
+mnt-irt:        IRT-ASTRA-ID
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-10T06:17:10Z
+source:         APNIC
+
+inetnum:        202.38.128.0 - 202.38.129.255
+netname:        IHEP
+descr:          Institute of High Energy Physics
+descr:          Chinese Academy of Sciences
+descr:          P.O. Box 918-7
+descr:          Beijing 100039
+country:        CN
+admin-c:        FQ48-AP
+tech-c:         GC332-AP
+abuse-c:        AC1601-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:31:17Z
+source:         APNIC
+
+inetnum:        202.12.12.0 - 202.12.12.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:23Z
+source:         APNIC
+
+inetnum:        202.69.128.0 - 202.69.131.255
+netname:        SPEEDCOM-HK
+descr:          Speednet Company
+descr:          Rm 707, 7/F, Block B, Lam Tin.
+country:        HK
+admin-c:        KM334-AP
+tech-c:         KM334-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+status:         ALLOCATED PORTABLE
+remarks:        ******** 960116
+remarks:        ******** 20041214
+last-modified:  2012-02-16T23:21:37Z
+source:         APNIC
+
+inetnum:        203.169.0.0 - 203.169.3.255
+netname:        CISI-PH
+descr:          CYBERNET INFORMATION SERVICE INC.
+descr:          ONLINE SERVICE
+descr:          MANILA,PHILIPPINES
+country:        PH
+admin-c:        LM2-PH
+tech-c:         RD2-PH
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 960205
+status:         ALLOCATED PORTABLE
+last-modified:  2011-11-09T00:07:51Z
+source:         APNIC
+
+inetnum:        203.82.252.0 - 203.82.255.255
+netname:        TELECOM1-HK
+descr:          TELECOM SERVICE LIMITED
+country:        HK
+org:            ORG-TSL15-AP
+admin-c:        TSLA7-AP
+tech-c:         TSLA7-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-TELECOM1-HK
+mnt-irt:        IRT-TELECOM1-HK
+last-modified:  2023-02-10T03:21:23Z
+source:         APNIC
+
+inetnum:        202.22.64.0 - 202.22.127.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+last-modified:  2015-12-01T22:28:57Z
+source:         APNIC
+
+inetnum:        202.12.10.0 - 202.12.10.255
+netname:        JPNIC-NET-JP
+descr:          Japan Network Information Center
+country:        JP
+admin-c:        JNIC1-AP
+tech-c:         JNIC1-AP
+status:         ASSIGNED PORTABLE
+remarks:        ***************************************************
+remarks:        Authoritative information regarding assignments and
+remarks:        allocations made from within this block can also be
+remarks:        queried at whois.nic.ad.jp. To obtain an English
+remarks:        output query whois -h whois.nic.ad.jp x.x.x.x/e
+remarks:        ***************************************************
+mnt-by:         MAINT-JPNIC
+mnt-irt:        IRT-JPNIC-JP
+last-modified:  2015-12-01T22:27:22Z
+source:         APNIC
+
+inetnum:        202.12.42.0 - 202.12.42.255
+netname:        AGVIC11
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:38Z
+source:         APNIC
+
+inetnum:        202.12.63.0 - 202.12.63.255
+netname:        AGVIC32
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:38Z
+source:         APNIC
+
+inetnum:        202.14.232.0 - 202.14.233.255
+netname:        ACMA-AU
+descr:          Australian Broadcasting Authority
+descr:          PO Box Q500
+descr:          Queen Victoria Building
+descr:          Sydney
+descr:          NSW 2001
+country:        AU
+org:            ORG-ACAM1-AP
+admin-c:        IM344-AP
+tech-c:         IM344-AP
+abuse-c:        AA1608-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-ACMA-GOV
+mnt-irt:        IRT-ACMA-NON-AU
+last-modified:  2020-06-22T05:00:11Z
+source:         APNIC
+
+inetnum:        202.14.0.0 - 202.14.0.255
+netname:        CSIRO-TOWN-1
+descr:          CSIRO
+descr:          CSIRO, Davies Laboratory
+descr:          Private Mail Bag PO
+descr:          Aitkenvale, Qld
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        HB251-AP
+tech-c:         HB251-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+remarks:        ******** 19940308
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:07Z
+source:         APNIC
+
+inetnum:        202.12.52.0 - 202.12.52.255
+netname:        AGVIC21
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:39Z
+source:         APNIC
+
+inetnum:        202.8.35.0 - 202.8.35.255
+netname:        CSIRO-HO4
+descr:          CSIRO
+descr:          CSIRO Head Office
+descr:          407 Royal Parade
+descr:          Parkville, Vic
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        JG651-AP
+tech-c:         JG651-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-10-20T00:55:59Z
+source:         APNIC
+
+inetnum:        202.14.101.0 - 202.14.101.255
+netname:        COMMUNITIESWA-AU
+descr:          Department of Communities
+country:        AU
+org:            ORG-DOC2-AP
+admin-c:        DOCA3-AP
+tech-c:         DOCA3-AP
+abuse-c:        AC2065-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-COMMUNITIESWA-AU
+mnt-irt:        IRT-COMMUNITIESWA-AU
+last-modified:  2020-08-05T02:57:19Z
+source:         APNIC
+
+inetnum:        202.14.3.0 - 202.14.3.255
+netname:        CSIRO-TOWN-4
+descr:          CSIRO
+descr:          CSIRO, Davies Laboratory
+descr:          Private Mail Bag PO
+descr:          Aitkenvale, Qld
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        HB251-AP
+tech-c:         HB251-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+remarks:        ******** 930427
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:10Z
+source:         APNIC
+
+inetnum:        202.12.58.0 - 202.12.58.255
+netname:        AGVIC27
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:39Z
+source:         APNIC
+
+inetnum:        202.12.127.0 - 202.12.127.255
+netname:        PRONET
+descr:          Protected Networks
+descr:          61 Auburn St
+descr:          MEDFORD MA 02155
+country:        US
+org:            ORG-PN4-AP
+admin-c:        IMB1-AP
+tech-c:         IMB1-AP
+abuse-c:        AP825-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-PRONET-NON-AP
+last-modified:  2020-06-22T12:20:19Z
+source:         APNIC
+
+inetnum:        202.12.46.0 - 202.12.46.255
+netname:        AGVIC15
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:40Z
+source:         APNIC
+
+inetnum:        202.12.113.0 - 202.12.113.255
+netname:        LNA-NET2
+descr:          Leeds & Northrup Australia
+descr:          42 McKechnie Drive
+descr:          Eight Mile Plains
+descr:          Brisbane 4113
+country:        AU
+admin-c:        GB13
+tech-c:         GB13
+mnt-by:         APNIC-HM
+remarks:        ******** 930507
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:40Z
+source:         APNIC
+
+inetnum:        202.0.64.0 - 202.0.64.255
+netname:        PIONEER2
+descr:          The Armidale School
+descr:          Private Bag
+descr:          Post Office Armidale 2350
+country:        AU
+org:            ORG-TAS1-AP
+admin-c:        KS1208-AP
+tech-c:         KS1208-AP
+abuse-c:        AA1759-AP
+status:         ASSIGNED PORTABLE
+remarks:        ******** 930218
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-ARMIDALE-NON-AU
+last-modified:  2020-07-07T05:01:10Z
+source:         APNIC
+
+inetnum:        202.14.152.0 - 202.14.152.255
+netname:        DEPTGOVSPORTCULTURAL-NON-AU
+descr:          Department of Local Government, Sport and Cultural Industries
+descr:          Perth Cultural Centre
+descr:          Perth
+descr:          WA 6000
+country:        AU
+org:            ORG-DOCA1-AP
+admin-c:        DOLG1-AP
+tech-c:         DOLG1-AP
+abuse-c:        AD761-AP
+status:         ASSIGNED PORTABLE
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+remarks:        To report network abuse, please contact the IRT
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        For assistance, please contact the APNIC Helpdesk
+remarks:        -+-+-+-+-+-+-+-+-+-+-+-++-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-DEPTGOVSPORTCULTURAL
+mnt-irt:        IRT-DEPTGOVSPORTCULTURAL-NON-AU
+last-modified:  2020-06-22T06:14:00Z
+source:         APNIC
+
+inetnum:        202.6.83.0 - 202.6.83.255
+netname:        CSIRO-FORCBR
+descr:          CSIRO Division of Forestry
+descr:          PO Box 4008
+descr:          Queen Victoria Terrace
+descr:          ACT 2600
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        HB251-AP
+tech-c:         HB251-AP
+abuse-c:        AC1863-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-06-30T13:21:09Z
+source:         APNIC
+
+inetnum:        202.12.59.0 - 202.12.59.255
+netname:        AGVIC28
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:41Z
+source:         APNIC
+
+inetnum:        202.12.36.0 - 202.12.36.255
+netname:        AGVIC5
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:41Z
+source:         APNIC
+
+inetnum:        202.8.36.0 - 202.8.36.255
+netname:        CSIRO-HO5
+descr:          CSIRO
+descr:          CSIRO Head Office
+descr:          407 Royal Parade
+descr:          Parkville, Vic
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        JG651-AP
+tech-c:         JG651-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-10-20T00:55:59Z
+source:         APNIC
+
+inetnum:        202.14.130.0 - 202.14.130.255
+netname:        WESTRAIL1
+descr:          Public Transport Authority of Western Australia
+descr:          Public Transport Centre
+descr:          West Parade, East Perth
+descr:          WA 6004
+country:        AU
+org:            ORG-PTAO1-AP
+admin-c:        NS428-AP
+tech-c:         NS428-AP
+abuse-c:        AP1123-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-PTAWA-AU
+last-modified:  2021-01-15T05:39:38Z
+source:         APNIC
+
+inetnum:        202.12.107.0 - 202.12.107.255
+netname:        POWERHOUSE-AU
+descr:          Powerhouse Museum
+descr:          PO BOX K346
+descr:          Haymarket
+descr:          NSW 1238
+country:        AU
+org:            ORG-PM6-AP
+admin-c:        MM915-AP
+tech-c:         MM915-AP
+abuse-c:        AP1070-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-PHM-NON-AU
+last-modified:  2020-11-25T06:39:19Z
+source:         APNIC
+
+inetnum:        202.1.1.0 - 202.1.1.255
+netname:        MSBHPA
+descr:          Maritime Services Board of N.S.W.
+descr:          G.P.O. Box 32
+descr:          Sydney, N.S.W., 2001
+country:        AU
+admin-c:        SC4
+tech-c:         SC4
+mnt-by:         APNIC-HM
+remarks:        ******** 930316
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:41Z
+source:         APNIC
+
+inetnum:        202.14.166.0 - 202.14.166.255
+netname:        TESSERENT-AU
+descr:          TESSERENT AUSTRALIA PTY LTD
+descr:          Level 5, 990 Whitehorse Rd
+descr:          Box Hill, VIC, 3128
+country:        AU
+org:            ORG-TAPL1-AP
+admin-c:        TAPL3-AP
+tech-c:         TAPL3-AP
+abuse-c:        AT1102-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-TESSERENT-AU
+mnt-irt:        IRT-TESSERENT1-AU
+last-modified:  2020-06-22T06:02:21Z
+source:         APNIC
+
+inetnum:        202.14.215.0 - 202.14.215.255
+netname:        SCASA-AU
+descr:          School Curriculum and Standards Authority
+country:        AU
+org:            ORG-SCAS1-AP
+admin-c:        SCAS2-AP
+tech-c:         SCAS2-AP
+abuse-c:        AS3397-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-SCASA-AU
+mnt-irt:        IRT-SCASA-AU
+last-modified:  2022-09-12T05:14:13Z
+source:         APNIC
+
+inetnum:        202.0.108.0 - 202.0.108.255
+netname:        DEPTTRANSPORT-AU
+descr:          Department of Transport
+descr:          140 William Street
+descr:          Perth WA 6000
+country:        AU
+org:            ORG-DOT1-AP
+admin-c:        DOTA1-AP
+tech-c:         DOTA1-AP
+abuse-c:        AD668-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-DEPT-TRANSPORT-WA-AU
+mnt-irt:        IRT-DEPT-TRANSPORT-WA-AU
+last-modified:  2020-05-20T03:57:29Z
+source:         APNIC
+
+inetnum:        202.12.61.0 - 202.12.61.255
+netname:        AGVIC30
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:42Z
+source:         APNIC
+
+inetnum:        202.14.77.0 - 202.14.77.255
+netname:        ACCI-EXP
+descr:          Australian Computing and Communications Institute
+descr:          ACCI, 1st Floor,
+descr:          723 Swanston Street,
+descr:          Carlton, 3053
+country:        AU
+admin-c:        GRW16
+tech-c:         GRW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930519
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:42Z
+source:         APNIC
+
+inetnum:        202.12.50.0 - 202.12.50.255
+netname:        AGVIC19
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:42Z
+source:         APNIC
+
+inetnum:        202.8.32.0 - 202.8.32.255
+netname:        CSIRO-HO1
+descr:          CSIRO
+descr:          CSIRO Head Office
+descr:          407 Royal Parade
+descr:          Parkville, Vic
+country:        AU
+org:            ORG-CSAI1-AP
+admin-c:        JG651-AP
+tech-c:         JG651-AP
+abuse-c:        AC1863-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-CSIRO
+mnt-routes:     MAINT-AU-CSIRO
+mnt-irt:        IRT-CSIRO-ACCOUNT-AU
+last-modified:  2020-10-20T00:55:59Z
+source:         APNIC
+
+inetnum:        202.14.240.0 - 202.14.242.255
+netname:        NETBLK-RIVWOOLCOMB
+descr:          Riverina Wool Combing Pty Ltd
+descr:          PO Box 790
+descr:          Wagga Wagga
+descr:          NSW 2650
+country:        AU
+admin-c:        EH16
+tech-c:         EH16
+mnt-by:         APNIC-HM
+remarks:        ******** 930812
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:42Z
+source:         APNIC
+
+inetnum:        202.1.0.0 - 202.1.0.255
+netname:        MSBSPA
+descr:          Maritime Services Board of N.S.W.
+descr:          G.P.O. Box 32
+descr:          Sydney, N.S.W., 2001
+country:        AU
+admin-c:        SC4
+tech-c:         SC4
+mnt-by:         APNIC-HM
+remarks:        ******** 930316
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:42Z
+source:         APNIC
+
+inetnum:        202.12.55.0 - 202.12.55.255
+netname:        AGVIC24
+descr:          Department of Agriculture (Victoria)
+descr:          2/166 Wellington Parade
+descr:          East Melbourne  VIC 3002
+country:        AU
+admin-c:        JW16
+tech-c:         JW16
+mnt-by:         APNIC-HM
+remarks:        ******** 930611
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:43Z
+source:         APNIC
+
+inetnum:        202.6.77.0 - 202.6.77.255
+netname:        UTASDMZ2
+descr:          University of Tasmania
+descr:          IT Services
+descr:          GPO. Box 252-69
+descr:          Hobart 7001
+country:        AU
+org:            ORG-UOT1-AP
+admin-c:        MH225-AP
+tech-c:         MH225-AP
+abuse-c:        AU73-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-UNIOFTAS-NON-AU
+last-modified:  2020-05-12T13:13:13Z
+source:         APNIC
+
+inetnum:        202.14.229.0 - 202.14.229.255
+netname:        BUSEMPVIC
+descr:          Department of Business and Employment, Industry Services
+descr:          Level 27
+descr:          80 Collins Street
+descr:          Melbourne
+descr:          VIC 3000
+country:        AU
+admin-c:        JC56
+tech-c:         JC56
+mnt-by:         APNIC-HM
+remarks:        ******** 930811
+status:         ASSIGNED PORTABLE
+last-modified:  2012-02-16T23:21:43Z
+source:         APNIC
+
+inetnum:        202.93.252.0 - 202.93.255.255
+netname:        SWNET
+descr:          Beijing Sunway Xunteng Technology Development Co.,Ltd
+descr:          No.1205, Scitech Building, Jianwai Street No.22,
+descr:          Chaoyang District, Beijing
+country:        CN
+admin-c:        LJ650-AP
+tech-c:         LZ520-AP
+abuse-c:        AC1601-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         MAINT-CNNIC-AP
+mnt-lower:      MAINT-CNNIC-AP
+mnt-routes:     MAINT-CNNIC-AP
+mnt-irt:        IRT-CNNIC-CN
+last-modified:  2021-06-16T01:30:10Z
+source:         APNIC
+
+inetnum:        203.83.252.0 - 203.83.255.255
+netname:        COL-HK
+descr:          COL Limited
+descr:          Hong Kong's Leading Computer Services Company
+country:        HK
+admin-c:        TL4-HK
+tech-c:         TL4-HK
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 960220
+status:         ALLOCATED PORTABLE
+last-modified:  2012-02-16T23:21:43Z
+source:         APNIC
+
+inetnum:        203.104.0.0 - 203.104.15.255
+netname:        DETQLD-AU
+descr:          DEPARTMENT OF EDUCATION AND TRAINING (QLD)
+descr:          Education House
+descr:          30 Mary Street
+descr:          Brisbane 4002
+country:        AU
+org:            ORG-DOEA3-AP
+admin-c:        DOEA3-AP
+tech-c:         DOEA3-AP
+abuse-c:        AA1852-AP
+status:         ALLOCATED PORTABLE
+mnt-by:         APNIC-HM
+mnt-lower:      MAINT-AU-DETQLD
+mnt-routes:     MAINT-AU-DETQLD
+mnt-irt:        IRT-AU-DETQLD
+last-modified:  2020-07-15T13:11:10Z
+source:         APNIC
+
+inetnum:        203.134.252.0 - 203.134.255.255
+netname:        PERDNETNIE-PK
+descr:          National Institute of Electronics
+descr:          Research & Development in Electronics
+descr:          Islamabad, Pakistan
+country:        PK
+admin-c:        KQ1-AP
+tech-c:         MH1-AP
+tech-c:         MM3-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 960319
+status:         ALLOCATED PORTABLE
+last-modified:  2011-11-09T00:08:06Z
+source:         APNIC
+
+inetnum:        203.110.252.0 - 203.110.255.255
+netname:        OVSCHOOLS-AU
+descr:          Optus Vision
+descr:          Internet access to schools over HFC
+descr:          Pilot project to be expanded to a National Scale
+country:        AU
+org:            ORG-SOPL2-AP
+admin-c:        RK1-AP
+tech-c:         BB1-AP
+abuse-c:        AO399-AP
+status:         ALLOCATED PORTABLE
+remarks:        service provider
+remarks:        ******** 960322
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-OPTUSCOM-AU
+last-modified:  2021-01-15T01:45:00Z
+source:         APNIC
+
+inetnum:        202.14.142.0 - 202.14.142.255
+netname:        DAVIDPAULGREY-NZ
+descr:          David Paul Grey
+country:        NZ
+org:            ORG-DPG1-AP
+admin-c:        DPGA1-AP
+tech-c:         DPGA1-AP
+abuse-c:        AD1289-AP
+status:         ASSIGNED PORTABLE
+remarks:        --------------------------------------------------------
+remarks:        To report network abuse, please contact mnt-irt
+remarks:        For troubleshooting, please contact tech-c and admin-c
+remarks:        Report invalid contact via www.apnic.net/invalidcontact
+remarks:        --------------------------------------------------------
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-DAVIDPAULGREY-NZ
+mnt-irt:        IRT-DAVIDPAULGREY-NZ
+last-modified:  2023-05-22T06:37:06Z
+source:         APNIC
+
+inetnum:        202.0.125.0 - 202.0.125.255
+netname:        TAHB3
+descr:          Taranaki District Health Board
+descr:          Private Bag
+descr:          New Plymouth
+country:        NZ
+org:            ORG-TD2-AP
+admin-c:        GT449-AP
+tech-c:         GT449-AP
+abuse-c:        AT1112-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-routes:     MAINT-TDHB-NZ
+mnt-irt:        IRT-TDHB-NON-NZ
+last-modified:  2020-06-22T07:38:54Z
+source:         APNIC
+
+inetnum:        202.7.40.0 - 202.7.40.255
+netname:        WBC9
+descr:          Westpac Banking Corporation, NZ
+descr:          Level 8, Radio New Zealand House, 155 The Terrace
+descr:          Wellington
+country:        NZ
+org:            ORG-WNZL1-AP
+admin-c:        WNZL1-AP
+tech-c:         WNZL1-AP
+abuse-c:        AW921-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-WESTPACNZ-NON-NZ
+last-modified:  2020-06-23T00:14:24Z
+source:         APNIC
+
+inetnum:        168.126.0.0 - 168.126.255.255
+netname:        KORNET
+descr:          Korea Telecom
+admin-c:        IM667-AP
+tech-c:         IM667-AP
+country:        KR
+status:         ALLOCATED PORTABLE
+mnt-by:         MNT-KRNIC-AP
+mnt-irt:        IRT-KRNIC-KR
+last-modified:  2017-02-03T02:22:04Z
+source:         APNIC
+
+inetnum:        203.84.128.0 - 203.84.129.255
+netname:        CONFER-HK
+descr:          Skywell Development Limited
+descr:          Hong Kong
+country:        HK
+admin-c:        BY1-HK
+tech-c:         MW2-AP
+remarks:        service provider
+mnt-by:         APNIC-HM
+remarks:        ******** 960401
+status:         ASSIGNED PORTABLE
+last-modified:  2011-11-09T00:08:09Z
+source:         APNIC
+
+inetnum:        202.12.91.0 - 202.12.91.255
+netname:        NATLIB-NZ2
+descr:          National Library of New Zealand
+descr:          Cnr Molesworth & Aitken Streets
+descr:          PO Box 1467
+descr:          Wellington
+country:        NZ
+org:            ORG-NLON1-AP
+admin-c:        AS120-AP
+tech-c:         AS120-AP
+abuse-c:        AN1077-AP
+status:         ASSIGNED PORTABLE
+mnt-by:         APNIC-HM
+mnt-irt:        IRT-NATLIB-NON-NZ
+last-modified:  2020-11-25T06:42:41Z
+source:         APNIC

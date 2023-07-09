@@ -40,3 +40,7 @@ http://localhost:8081/api/whois/202.14.146.0/24
 ```
 http://localhost:8282/
 ```
+
+### Catatan
+
+- Data apnic.db.inetnum yang di-push ke git hanya sedikit karena file sizenya terlalu besar, apabila ingin menggunakan data yang lengkap silahkan replace file apnic.db.inetnum yang terdapat pada folder "app" setelah project berhasil di-clone
