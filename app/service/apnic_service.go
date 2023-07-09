@@ -36,7 +36,7 @@ func (service ApnicServiceImpl) InsertData() {
 	/**
 	Open file of data source
 	*/
-	dataSource, err := os.Open("apnic.db.inetnum")
+	dataSource, err := os.Open("apnic.db.inetnum.db.inetnum")
 	if err != nil {
 		exception.PanicIfNeeded(err)
 	}
