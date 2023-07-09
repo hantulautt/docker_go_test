@@ -7,8 +7,7 @@ import (
 )
 
 func NewMysqlDatabase() *gorm.DB {
-	//dsn := "user:password@tcp(db:3306)/db?charset=utf8mb4&parseTime=True&loc=Local"
-	dsn := "root:qwerty125@tcp(localhost:3306)/test-arsen?charset=utf8mb4&parseTime=True&loc=Local"
+	dsn := "user:password@tcp(db:3306)/db?charset=utf8mb4&parseTime=True&loc=Local"
 	db, err := gorm.Open(mysql.Open(dsn), &gorm.Config{})
 
 	// if there is an error opening the connection, handle it

@@ -18,8 +18,17 @@ func NewApnicController(apnicService *service.ApnicService) ApnicController {
 }
 
 func (controller ApnicController) Route(app *fiber.App) {
+	app.Get("/", controller.Index)
 	app.Get("insert-data", controller.InsertData)
-	app.Get("api/whois/:inetnum/:range", controller.Index)
+	app.Get("api/whois/:inetnum/:range", controller.Whois)
+}
+
+func (controller ApnicController) Index(ctx *fiber.Ctx) error {
+	return ctx.Status(fiber.StatusOK).JSON(model.WebResponse{
+		Code:    fiber.StatusOK,
+		Status:  true,
+		Message: "v1.0.0",
+	})
 }
 
 func (controller ApnicController) InsertData(ctx *fiber.Ctx) error {
@@ -31,7 +40,7 @@ func (controller ApnicController) InsertData(ctx *fiber.Ctx) error {
 	})
 }
 
-func (controller ApnicController) Index(ctx *fiber.Ctx) error {
+func (controller ApnicController) Whois(ctx *fiber.Ctx) error {
 	inetNum := ctx.Params("inetnum")
 	inetRange := ctx.Params("range")
 	param := fmt.Sprintf("%s/%s", inetNum, inetRange)
