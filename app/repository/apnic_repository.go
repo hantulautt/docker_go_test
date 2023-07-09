@@ -2,6 +2,7 @@ package repository
 
 import (
 	"docker_go_test/app/entity"
+	"docker_go_test/app/helper"
 	"gorm.io/gorm"
 	"gorm.io/gorm/clause"
 )
@@ -9,10 +10,17 @@ import (
 type ApnicRepository interface {
 	WhoisIp(inetNum string) (data entity.ApnicInetnum)
 	InsertInetNum(inetNum entity.ApnicInetnum) error
+	CreateTableMigration()
 }
 
 type ApnicRepositoryImpl struct {
 	Db *gorm.DB
+}
+
+func (repo ApnicRepositoryImpl) CreateTableMigration() {
+	if err := repo.Db.Set("gorm:table_options", "COLLATE=utf8_general_ci").Migrator().CreateTable(&entity.ApnicInetnum{}); err != nil {
+		helper.WriteLog("migration.log", "ERROR "+err.Error())
+	}
 }
 
 func (repo ApnicRepositoryImpl) InsertInetNum(inetNum entity.ApnicInetnum) error {

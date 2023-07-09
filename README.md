@@ -37,6 +37,7 @@ http://localhost:8081/api/whois/202.14.146.0/24
 - Untuk mengakses database menggunakan adminer :
   - User : user
   - Password : password
+  - Database : db
 ```
 http://localhost:8282/
 ```

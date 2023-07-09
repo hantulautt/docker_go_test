@@ -3,7 +3,6 @@ package main
 import (
 	"docker_go_test/app/config"
 	"docker_go_test/app/controller"
-	"docker_go_test/app/entity"
 	"docker_go_test/app/exception"
 	"docker_go_test/app/helper"
 	"docker_go_test/app/repository"
@@ -33,11 +32,11 @@ func main() {
 	apnicController := controller.NewApnicController(&apnicService)
 
 	/**
-	Cron insert data to db every day at 00:00:00
-	Please adjust the time as your need
+	Cron insert or update data into db
 	*/
 	cron := gocron.NewScheduler(time.Local)
-	_, err := cron.Every(1).Day().At("22:26:00").Do(apnicService.InsertData)
+	//_, err := cron.Every(1).Midday().Do(apnicService.InsertData)
+	_, err := cron.Every(1).Day().Do(apnicService.InsertData)
 	if err != nil {
 		helper.WriteLog("cron.log", "ERROR "+err.Error())
 	}
@@ -46,9 +45,7 @@ func main() {
 	/**
 	Create simple table using migration
 	*/
-	if err := db.Set("gorm:table_options", "COLLATE=utf8_general_ci").Migrator().CreateTable(&entity.ApnicInetnum{}); err != nil {
-		helper.WriteLog("migration.log", "ERROR "+err.Error())
-	}
+	apnicRepository.CreateTableMigration()
 
 	/**
 	Register Fiber
