@@ -26,7 +26,7 @@ docker-compose up -d
 
 ### Keterangan
 
-- Apabila cron job tidak berfungsi silahkan hit endpoit **insert-data** untuk melakukan insert dari file apnic.db.inetnum kedalam database (Proses ini berjalan secara running background menggunakan go routine)
+- Apabila cron job yang ada pada level aplikasi (main.go) tidak berfungsi silahkan hit endpoit **insert-data** untuk melakukan insert dari file apnic.db.inetnum kedalam database (Proses ini berjalan secara running background menggunakan go routine)
 ```
 http://localhost:8081/insert-data
 ```
